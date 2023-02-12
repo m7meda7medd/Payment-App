@@ -1,0 +1,6 @@
+﻿  Server.c
+c:\users\mohamed\desktop\payment_app_fwd\server\server.c(52): warning C4047: 'function': 'const char *' differs in levels of indirection from 'uint8_t (*)[20]'
+c:\users\mohamed\desktop\payment_app_fwd\server\server.c(52): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\mohamed\desktop\payment_app_fwd\server\server.c(52): warning C4024: 'strcmp': different types for formal and actual parameter 2
+c:\users\mohamed\desktop\payment_app_fwd\server\server.c(28): warning C4715: 'saveTransaction': not all control paths return a value
+  Payment_APP_FWD.vcxproj -> C:\Users\mohamed\Desktop\Payment_APP_FWD\Debug\Payment_APP_FWD.exe

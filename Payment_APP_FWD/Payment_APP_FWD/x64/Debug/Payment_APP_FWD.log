@@ -1,0 +1,5 @@
+﻿  App.c
+  Card.c
+c:\users\mohamed\desktop\project submission\payment_app_fwd\card\card.c(9): warning C4013: 'gets' undefined; assuming extern returning int
+  Generating Code...
+  Payment_APP_FWD.vcxproj -> C:\Users\mohamed\Desktop\Project Submission\Payment_APP_FWD\x64\Debug\Payment_APP_FWD.exe
